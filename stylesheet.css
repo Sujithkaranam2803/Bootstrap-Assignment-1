@@ -16,6 +16,44 @@
 .matter{
     left: 30%;
     position:absolute ;
-    top: 45%;
+    top: 40%;
     text-align: center;
 }
+.matter h1{
+    color: #6ab446;
+}
+.matter p{
+    color: #fff;
+    font-size: medium;
+    line-height: 1.5;
+}
+.matter button{
+    border: 1px solid #6ab446 ;
+    background: #6ab446;
+    border: radius 25px;;
+    color: #fff;
+}
+.features{
+    margin: auto;
+    padding: 1em;
+    position: relative;
+}
+.btn{
+    margin-top: 20px;
+    background-color:#6ab446 ;
+    border: 1px solid #6ab446;
+color: #fff;
+height: 10%;
+width: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+
